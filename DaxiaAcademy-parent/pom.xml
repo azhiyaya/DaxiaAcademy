@@ -9,6 +9,9 @@
     <version>1.0-SNAPSHOT</version>
     <name>DaxiaAcademy-parent</name>
     <description>大夏学堂父工程</description>
+    <modules>
+        <module>../DaxiaAcademy-content</module>
+    </modules>
     <packaging>pom</packaging>
 
     <!--版本设置-->
